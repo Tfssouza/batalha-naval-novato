@@ -1,0 +1,34 @@
+# Jogo de Batalha Naval — Nível Novato
+
+Este repositório contém o projeto do **Desafio: Nível Novato** do jogo Batalha Naval,
+conforme instruções do PDF da disciplina.
+
+## 🎯 Objetivo
+- Criar um tabuleiro 10x10 usando vetor.
+- Preencher com:
+  - 0 = água
+  - 1 = navio (3 posições)
+- Posicionar dois navios diretamente no código.
+- Imprimir o tabuleiro no final.
+
+## 🛠 Tecnologias
+- Linguagem C
+- Vetores
+- Estruturas de repetição
+
+## ▶ Como compilar
+### Linux / Mac:
+gcc batalha_naval.c -o batalha_naval
+
+### Windows (MinGW):
+gcc batalha_naval.c -o batalha_naval.exe
+
+## ▶ Como executar
+Linux/Mac:
+./batalha_naval
+
+Windows:
+batalha_naval.exe
+
+## ✔ Nível entregue
+Nível **Novato**, conforme solicitado no desafio.
